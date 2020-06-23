@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Bass, Largemouth
 
-You can use the [editor on GitHub](https://github.com/bukin99/bass/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bukin99/bass/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Distribution: 
+Found throughout the state in ponds, lakes, rivers and streams. Both state and federal hatcheries stock most Oklahoma waters with these powerful fighters. The Florida subspecies of largemouth bass have been stocked in many reservoirs and will interbreed with native largemouth bass. These hybrids grow rapidly and produce trophy-size fish.
+Black bass is a general term referring to largemouth, spotted and smallmouth bass and their hybrids. The three species are similar, but can be easily identified. Since water clarity can affect the color of a fish , color is not a reliable way to tell the basses apart. The most objective way to tell these species apart is by the relationship of the eye and the mouth hinge. On a spotted bass, the mouth hinge lines up vertically with the back edge of the eye; on a smallmouth bass, the mouth hinge vertically lines up in front of the back edge of the eye; and on a largemouth bass, the mouth hinge vertically lines up behind the back edge of the eye.  Largemouth bass Identification: - Mouth hinge is well behind eye - Most do not have a tooth patch on their tongue - The first and second dorsal fins are barely connected
+Habitat: 
+During the spring, largemouth bass are found in shallow, weedy habitat where food and cover are available. During the hot days of summer and cold winter months, these fish move to deeper water.
+Natural Food Sources: 
+Crustaceans, insects, crayfish, frogs and fish
+Spawning: 
+Spawning activities begin as water temperatures reach 62 to 65 degrees F. (April and May in Oklahoma). Nests are fanned out by males, usually within 10 feet of the shoreline. Females then deposit 2,000 to 7,000 eggs per pound of body weight in the nest. After fertilization, the male drives the female and any other intruders from the nest until the eggs hatch and the fry leave. Fry swim in schools until reaching a length of approximately one inch.
+Facts: 
+Largemouth bass are the most sought after game fish in Oklahoma. A highly predatory fish, they will strike an assortment of artificial lures as well as natural bait. Because they help control smaller sunfish populations, the "overharvest" of bass (removing too many), especially on small lakes and ponds, should be avoided. Some Oklahoma lakes have size limits on bass to protect them from overharvest. Check local as well as state regulations for possible size limits before fishing an unfamiliar lake.
